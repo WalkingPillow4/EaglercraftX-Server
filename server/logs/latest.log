@@ -188,3 +188,16 @@
 [14:59:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [14:59:35] [Server thread/INFO]: Done (2.730s)! For help, type "help" or "?"
 [14:59:35] [Server thread/INFO]: Timings Reset
+[15:32:36] [Thread-5/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
+[15:32:36] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:55476] logged in with entity id 269 at ([world]224.5, 71.0, 223.5)
+[15:34:23] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[15:34:23] [Server thread/INFO]: WalkingPillow6 left the game.
+[15:34:29] [Thread-6/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
+[15:34:29] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:37140] logged in with entity id 375 at ([world]224.8755345695121, 64.0, 242.0441682740495)
+[15:35:14] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[15:35:14] [Server thread/INFO]: WalkingPillow6 left the game.
+[15:35:16] [Thread-7/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
+[15:35:16] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:34392] logged in with entity id 400 at ([world]228.20814234350073, 62.0, 261.1402361531283)
+[15:37:02] [Server thread/INFO]: WalkingPillow6 has just earned the achievement [Taking Inventory]
+[15:42:38] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[15:42:39] [Server thread/INFO]: WalkingPillow6 left the game.

@@ -48,3 +48,27 @@
 [14:59:56] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
 [14:59:56] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
 [15:03:55] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/EaglercraftX-Server/bungee/server-icon.png
+[15:32:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37572]: Connected via websocket
+[15:32:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37572]: Origin header is null
+[15:32:35] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37572]: Logged in as 'WalkingPillow6'
+[15:32:36] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:37572|WalkingPillow6] -> UpstreamBridge has connected
+[15:32:36] [Netty Worker IO Thread #0/INFO]: [WalkingPillow6|/[0:0:0:0:0:0:0:1%0]:37572] <-> ServerConnector [lobby] has connected
+[15:34:23] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:37572|WalkingPillow6] -> UpstreamBridge has disconnected
+[15:34:23] [Netty Worker IO Thread #0/INFO]: [WalkingPillow6] disconnected with: Proxy lost connection to server.
+[15:34:23] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:37572|WalkingPillow6] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:34:29] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53250]: Connected via websocket
+[15:34:29] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53250]: Origin header is null
+[15:34:29] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53250]: Logged in as 'WalkingPillow6'
+[15:34:29] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:53250|WalkingPillow6] -> UpstreamBridge has connected
+[15:34:29] [Netty Worker IO Thread #1/INFO]: [WalkingPillow6|/[0:0:0:0:0:0:0:1%0]:53250] <-> ServerConnector [lobby] has connected
+[15:35:14] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:53250|WalkingPillow6] -> UpstreamBridge has disconnected
+[15:35:14] [Netty Worker IO Thread #1/INFO]: [WalkingPillow6] disconnected with: Proxy lost connection to server.
+[15:35:14] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:53250|WalkingPillow6] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:35:16] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46352]: Connected via websocket
+[15:35:16] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46352]: Origin header is null
+[15:35:16] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46352]: Logged in as 'WalkingPillow6'
+[15:35:16] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:46352|WalkingPillow6] -> UpstreamBridge has connected
+[15:35:16] [Netty Worker IO Thread #2/INFO]: [WalkingPillow6|/[0:0:0:0:0:0:0:1%0]:46352] <-> ServerConnector [lobby] has connected
+[15:42:38] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:46352|WalkingPillow6] -> UpstreamBridge has disconnected
+[15:42:38] [Netty Worker IO Thread #2/INFO]: [WalkingPillow6] disconnected with: Proxy lost connection to server.
+[15:42:38] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:46352|WalkingPillow6] <-> DownstreamBridge <-> [lobby] has disconnected
