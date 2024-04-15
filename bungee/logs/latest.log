@@ -47,3 +47,6 @@
 [22:11:39] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_auths.db
 [22:11:39] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
 [22:11:39] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[22:13:53] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/EaglercraftX-Server/bungee/server-icon.png
+[22:14:12] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33934]: Connected via websocket
+[22:14:12] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33934]: Origin header is null
