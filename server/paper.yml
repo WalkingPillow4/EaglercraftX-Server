@@ -35,7 +35,6 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
-    player-blocking-damage-multiplier: 0.5
     optimize-explosions: false
     mob-spawner-tick-rate: 1
     cache-chunk-maps: false
@@ -49,6 +48,12 @@ world-settings:
     fishing-time-range:
       MinimumTicks: 100
       MaximumTicks: 900
+    player-blocking-damage-multiplier: 0.5
+    remove-invalid-mob-spawner-tile-entities: true
+    lava-flow-speed:
+      normal: 30
+      nether: 10
+    disable-teleportation-suffocation-check: false
     player-exhaustion:
       block-break: 0.02500000037252903
       swimming: 0.014999999664723873
@@ -60,8 +65,6 @@ world-settings:
       enderpearls: true
       tnt-entities: true
       falling-blocks: true
-    disable-teleportation-suffocation-check: false
-    remove-invalid-mob-spawner-tile-entities: true
     game-mechanics:
       boats-drop-boats: false
       disable-player-crits: false
@@ -75,9 +78,6 @@ world-settings:
     fast-drain:
       lava: false
       water: false
-    lava-flow-speed:
-      normal: 30
-      nether: 10
     disable-explosion-knockback: false
     water-over-lava-flow-speed: 5
     fix-cannons: false
