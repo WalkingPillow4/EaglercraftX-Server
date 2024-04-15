@@ -191,3 +191,7 @@
 [20:35:10] [Server thread/INFO]: JRMPlayz4[/[0:0:0:0:0:0:0:1]:35842] logged in with entity id 362 at ([world]234.69999998807907, 53.0, 192.52158833297926)
 [20:51:32] [Server thread/INFO]: JRMPlayz4 lost connection: Disconnected
 [20:51:32] [Server thread/INFO]: JRMPlayz4 left the game.
+[20:55:29] [Thread-6/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
+[20:55:29] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:59582] logged in with entity id 1198 at ([world]159.33289010141678, 69.0, 289.4275061803796)
+[20:56:13] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[20:56:13] [Server thread/INFO]: WalkingPillow6 left the game.
