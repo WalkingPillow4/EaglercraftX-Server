@@ -187,3 +187,11 @@
 [15:54:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [15:54:29] [Server thread/INFO]: Done (2.754s)! For help, type "help" or "?"
 [15:54:29] [Server thread/INFO]: Timings Reset
+[15:57:40] [Thread-5/INFO]: UUID of player WalkingPillow4 is 93706ec2-c814-36b2-9e5c-8c8834e78be4
+[15:57:40] [Server thread/INFO]: WalkingPillow4[/[0:0:0:0:0:0:0:1]:49816] logged in with entity id 326 at ([world]222.5, 71.0, 224.5)
+[15:57:58] [Server thread/INFO]: WalkingPillow4 lost connection: Disconnected
+[15:57:58] [Server thread/INFO]: WalkingPillow4 left the game.
+[15:58:06] [Thread-6/INFO]: UUID of player WalkingPillow4 is 93706ec2-c814-36b2-9e5c-8c8834e78be4
+[15:58:06] [Server thread/INFO]: WalkingPillow4[/[0:0:0:0:0:0:0:1]:40988] logged in with entity id 380 at ([world]222.5, 71.0, 224.5)
+[15:58:25] [Server thread/INFO]: WalkingPillow4 lost connection: Disconnected
+[15:58:25] [Server thread/INFO]: WalkingPillow4 left the game.
