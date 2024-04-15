@@ -47,3 +47,38 @@
 [14:44:43] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
 [14:44:43] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
 [14:44:43] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[14:51:11] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/EaglercraftX-Server/bungee/server-icon.png
+[14:51:34] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40826]: Connected via websocket
+[14:51:34] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40826]: Origin header is null
+[14:51:35] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40826]: Logged in as 'WalkingPillow6'
+[14:51:35] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:40826|WalkingPillow6] -> UpstreamBridge has connected
+[14:51:35] [Netty Worker IO Thread #2/INFO]: [WalkingPillow6|/[0:0:0:0:0:0:0:1%0]:40826] <-> ServerConnector [lobby] has connected
+[14:52:16] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35058]: Connected via websocket
+[14:52:16] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35058]: Origin header is null
+[14:52:16] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35058]: Logged in as 'JRMPlayz4'
+[14:52:16] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35058|JRMPlayz4] -> UpstreamBridge has connected
+[14:52:16] [Netty Worker IO Thread #0/INFO]: [JRMPlayz4|/[0:0:0:0:0:0:0:1%0]:35058] <-> ServerConnector [lobby] has connected
+[14:53:05] [Netty Worker IO Thread #0/INFO]: [JRMPlayz4] disconnected with: Flying is not enabled on this server
+[14:53:05] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35058|JRMPlayz4] -> UpstreamBridge has disconnected
+[14:53:05] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35058|JRMPlayz4] <-> DownstreamBridge <-> [lobby] has disconnected
+[14:53:10] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34518]: Connected via websocket
+[14:53:10] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34518]: Origin header is null
+[14:53:10] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34518]: Logged in as 'JRMPlayz4'
+[14:53:10] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:34518|JRMPlayz4] -> UpstreamBridge has connected
+[14:53:10] [Netty Worker IO Thread #1/INFO]: [JRMPlayz4|/[0:0:0:0:0:0:0:1%0]:34518] <-> ServerConnector [lobby] has connected
+[14:57:44] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36518]: Connected via websocket
+[14:57:44] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36518]: Origin header is null
+[14:57:44] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36518]: Logged in as 'Technoblade'
+[14:57:44] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:36518|Technoblade] -> UpstreamBridge has connected
+[14:57:44] [Netty Worker IO Thread #0/INFO]: [Technoblade|/[0:0:0:0:0:0:0:1%0]:36518] <-> ServerConnector [lobby] has connected
+[15:03:36] [Netty Worker IO Thread #0/INFO]: [Technoblade] disconnected with: Flying is not enabled on this server
+[15:03:36] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:36518|Technoblade] -> UpstreamBridge has disconnected
+[15:03:36] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:36518|Technoblade] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:03:44] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36068]: Connected via websocket
+[15:03:44] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36068]: Origin header is null
+[15:03:44] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36068]: Logged in as 'Technoblade'
+[15:03:44] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36068|Technoblade] -> UpstreamBridge has connected
+[15:03:44] [Netty Worker IO Thread #1/INFO]: [Technoblade|/[0:0:0:0:0:0:0:1%0]:36068] <-> ServerConnector [lobby] has connected
+[15:10:17] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:34518|JRMPlayz4] -> UpstreamBridge has disconnected
+[15:10:17] [Netty Worker IO Thread #1/INFO]: [JRMPlayz4] disconnected with: Proxy lost connection to server.
+[15:10:17] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:34518|JRMPlayz4] <-> DownstreamBridge <-> [lobby] has disconnected
