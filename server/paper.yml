@@ -35,10 +35,6 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
-    despawn-ranges:
-      soft: 32
-      hard: 128
-    falling-block-height-nerf: 0
     remove-unloaded:
       enderpearls: true
       tnt-entities: true
@@ -66,6 +62,10 @@ world-settings:
     player-exhaustion:
       block-break: 0.02500000037252903
       swimming: 0.014999999664723873
+    despawn-ranges:
+      soft: 32
+      hard: 128
+    falling-block-height-nerf: 0
     player-blocking-damage-multiplier: 0.5
     remove-invalid-mob-spawner-tile-entities: true
     load-chunks:
