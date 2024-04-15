@@ -48,3 +48,11 @@
 [19:35:48] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
 [19:35:48] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
 [19:36:35] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/EaglercraftX-Server/bungee/server-icon.png
+[20:35:10] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33918]: Connected via websocket
+[20:35:10] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33918]: Origin header is null
+[20:35:10] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33918]: Logged in as 'JRMPlayz4'
+[20:35:10] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33918|JRMPlayz4] -> UpstreamBridge has connected
+[20:35:10] [Netty Worker IO Thread #0/INFO]: [JRMPlayz4|/[0:0:0:0:0:0:0:1%0]:33918] <-> ServerConnector [lobby] has connected
+[20:51:32] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33918|JRMPlayz4] -> UpstreamBridge has disconnected
+[20:51:32] [Netty Worker IO Thread #0/INFO]: [JRMPlayz4] disconnected with: Proxy lost connection to server.
+[20:51:32] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33918|JRMPlayz4] <-> DownstreamBridge <-> [lobby] has disconnected

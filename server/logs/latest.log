@@ -187,3 +187,7 @@
 [19:35:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [19:35:29] [Server thread/INFO]: Done (2.635s)! For help, type "help" or "?"
 [19:35:29] [Server thread/INFO]: Timings Reset
+[20:35:10] [Thread-5/INFO]: UUID of player JRMPlayz4 is 3e69d456-531d-3f21-ae9c-5c9d2f1d25a5
+[20:35:10] [Server thread/INFO]: JRMPlayz4[/[0:0:0:0:0:0:0:1]:35842] logged in with entity id 362 at ([world]234.69999998807907, 53.0, 192.52158833297926)
+[20:51:32] [Server thread/INFO]: JRMPlayz4 lost connection: Disconnected
+[20:51:32] [Server thread/INFO]: JRMPlayz4 left the game.
