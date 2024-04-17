@@ -187,3 +187,66 @@
 [20:23:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [20:23:53] [Server thread/INFO]: Done (3.374s)! For help, type "help" or "?"
 [20:23:53] [Server thread/INFO]: Timings Reset
+[20:27:09] [Thread-5/INFO]: UUID of player The_FreyxChip is 7f87ae98-5598-3782-9356-bf560b943628
+[20:27:09] [Server thread/INFO]: The_FreyxChip[/[0:0:0:0:0:0:0:1]:50282] logged in with entity id 338 at ([world]224.5, 71.0, 222.5)
+[20:27:47] [Async Chat Thread - #0/INFO]: <The_FreyxChip> Ello[m
+
+[20:27:55] [Server thread/INFO]: [Server] type in chat lol
+[20:28:00] [Server thread/INFO]: [Server] it's me
+[20:28:07] [Async Chat Thread - #0/INFO]: <The_FreyxChip> hi[m
+
+[20:28:09] [Server thread/INFO]: [Server] I am admin
+[20:28:12] [Server thread/INFO]: [Server] :)
+[20:28:13] [Async Chat Thread - #0/INFO]: <The_FreyxChip> wow[m
+
+[20:28:27] [Server thread/INFO]: Set the time to 1000
+[20:28:47] [Server thread/INFO]: * Server is mining water
+[20:29:03] [Server thread/INFO]: * Server is running /kill
+[20:29:09] [Server thread/INFO]: The_FreyxChip issued server command: /me is killing ni-
+[20:29:09] [Server thread/INFO]: * The_FreyxChip is killing ni-
+[20:29:15] [Server thread/INFO]: * Server is joiing
+[20:29:18] [Server thread/INFO]: * Server is joining
+[20:29:29] [Server thread/INFO]: * Server is mining water
+[20:29:36] [Server thread/INFO]: * Server is breathing air
+[20:29:48] [Server thread/INFO]: * Server is walking in a straight line
+[20:30:04] [Server thread/INFO]: * Server no
+[20:30:06] [Server thread/INFO]: [Server] no
+[20:30:15] [Server thread/INFO]: [Server] don't fly
+[20:30:22] [Server thread/INFO]: [Server] it will kick you for flying
+[20:30:36] [Server thread/INFO]: * Server is alive
+[20:30:49] [Server thread/WARN]: The_FreyxChip was kicked for floating too long!
+[20:30:49] [Server thread/INFO]: The_FreyxChip lost connection: Flying is not enabled on this server
+[20:30:49] [Server thread/INFO]: The_FreyxChip left the game.
+[20:30:49] [Server thread/WARN]: handleDisconnection() called twice
+[20:30:57] [Thread-6/INFO]: UUID of player The_FreyxChip is 7f87ae98-5598-3782-9356-bf560b943628
+[20:30:57] [Server thread/INFO]: The_FreyxChip[/[0:0:0:0:0:0:0:1]:57374] logged in with entity id 662 at ([world]230.72599550885576, 79.27882155030575, 249.54686000260236)
+[20:31:13] [Server thread/INFO]: * Server is playing Minecraft
+[20:31:21] [Server thread/INFO]: Usage: /me <action ...>
+[20:31:24] [Server thread/INFO]: Usage: /me <action ...>
+[20:31:26] [Server thread/INFO]: Usage: /me <action ...>
+[20:31:29] [Server thread/INFO]: * Server e
+[20:32:31] [Server thread/INFO]: [Server] The admin is joining soon...
+[20:33:08] [Thread-7/INFO]: UUID of player WalkingPillow5 is 325bd853-eb49-3b02-b111-e4ff797915ca
+[20:33:08] [Server thread/INFO]: WalkingPillow5[/[0:0:0:0:0:0:0:1]:41112] logged in with entity id 918 at ([world]225.5, 74.0, 218.5)
+[20:33:16] [Server thread/INFO]: WalkingPillow5 lost connection: Disconnected
+[20:33:16] [Server thread/INFO]: WalkingPillow5 left the game.
+[20:33:56] [Thread-8/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
+[20:33:56] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:50818] logged in with entity id 1073 at ([world]237.26306286349958, 78.0, 340.4993609547689)
+[20:34:00] [Async Chat Thread - #1/INFO]: <WalkingPillow6> eeeeee[m
+
+[20:34:08] [Async Chat Thread - #1/INFO]: <WalkingPillow6> i am here[m
+
+[20:34:22] [Server thread/INFO]: The_FreyxChip issued server command: /teleport me to WalkingPillow6
+[20:34:27] [Server thread/INFO]: The_FreyxChip issued server command: /help
+[20:34:38] [Server thread/INFO]: Set WalkingPillow6's game mode to Creative Mode
+[20:34:46] [Server thread/INFO]: Teleported The_FreyxChip to WalkingPillow6
+[20:35:15] [Server thread/INFO]: Given [Golden Apple] * 2 to The_FreyxChip
+[20:35:34] [Server thread/INFO]: Given [Golden Apple] * 2 to The_FreyxChip
+[20:35:46] [Server thread/INFO]: Set WalkingPillow6's game mode to Survival Mode
+[20:36:10] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[20:36:10] [Server thread/INFO]: WalkingPillow6 left the game.
+[20:36:36] [Server thread/INFO]: [Server] lol you ded yet?
+[20:36:40] [Thread-9/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
+[20:36:40] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:39228] logged in with entity id 1412 at ([world]218.98471376717328, 64.0, 327.54203338705315)
+[20:38:00] [Server thread/INFO]: The_FreyxChip has just earned the achievement [Taking Inventory]
+[20:38:59] [Server thread/INFO]: Set game difficulty to Peaceful
