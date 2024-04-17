@@ -250,3 +250,12 @@
 [20:36:40] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:39228] logged in with entity id 1412 at ([world]218.98471376717328, 64.0, 327.54203338705315)
 [20:38:00] [Server thread/INFO]: The_FreyxChip has just earned the achievement [Taking Inventory]
 [20:38:59] [Server thread/INFO]: Set game difficulty to Peaceful
+[20:48:41] [Server thread/INFO]: Given Resistance (ID 11) * 4 to The_FreyxChip for 1000000 seconds
+[20:49:39] [Server thread/INFO]: Cleared the inventory of The_FreyxChip, removing 8 items
+[20:49:46] [Server thread/INFO]: Given [Dirt] * 8 to WalkingPillow6
+[20:50:04] [Server thread/INFO]: Could not clear the inventory of The_FreyxChip, no items to remove
+[20:51:24] [Server thread/INFO]: Given Resistance (ID 11) * 4 to WalkingPillow6 for 1000000 seconds
+[21:00:24] [Server thread/INFO]: The_FreyxChip lost connection: Disconnected
+[21:00:24] [Server thread/INFO]: The_FreyxChip left the game.
+[21:00:35] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[21:00:35] [Server thread/INFO]: WalkingPillow6 left the game.
